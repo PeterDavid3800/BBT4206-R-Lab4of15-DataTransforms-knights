@@ -5,7 +5,7 @@ if (require("languageserver")) {
                    repos = "https://cloud.r-project.org")
 }
 
-# Installing and Load the Required Packages ----
+# Installing and Load the Required Packages
 ## mlbench ----
 if (require("mlbench")) {
   require("mlbench")
